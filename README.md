@@ -1,1 +1,1 @@
-# Rodney Web Solutions
+# Rodney Web Solutions Code Snippets
