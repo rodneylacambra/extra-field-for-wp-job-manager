@@ -1,4 +1,5 @@
 === Extra Field for WP Job Manager ===
+
 Contributors: Rodney Lacambra
 Tags: job manager, job listing, job board, job management, job lists, recruitment
 Tested up to: 5.2
